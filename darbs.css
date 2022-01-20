@@ -1,0 +1,21 @@
+h1{
+    color: rgb(6, 6, 224);
+  }
+ 
+  body{
+     background-color: rgb(116, 146, 230); 
+ 
+   }
+   table, th, td {
+     border: 3px double;
+     background-color: rgb(245, 155, 155);
+  }
+  li {
+     list-style-type: circle;
+   }
+  
+   button {
+       padding: 8px 10px;
+ 
+ 
+   }
